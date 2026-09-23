@@ -1,0 +1,4 @@
+interface:
+  display_name: "小而美雇主挖掘"
+  short_description: "联网核验细分技术、产业背景和当前岗位，寻找真正适合技术求职者的小而美雇主"
+  default_prompt: "使用 $find-hidden-gem-employers 为我寻找目标地区适合当前毕业阶段和技术方向的小而美公司，并说明每家公司为何入选及小而美证据。"
