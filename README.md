@@ -189,7 +189,7 @@ find-hidden-gem-employers/
 ### 方法一：克隆到 Codex Skills 目录
 
 ```bash
-git clone https://github.com/zhangshusen1023-stack/find-hidden-gem-employers.git
+git clone https://github.com/zss324/find-hidden-gem-employers.git
 ```
 
 将仓库目录放到你的 Codex Skills 目录，并确保最终结构为：
@@ -211,7 +211,7 @@ C:\Users\<你的用户名>\.codex\skills\find-hidden-gem-employers\SKILL.md
 在支持从 GitHub 仓库安装 Skill 的 Codex 环境中，直接请求：
 
 ```text
-请从 https://github.com/zhangshusen1023-stack/find-hidden-gem-employers 安装这个 Skill。
+请从 https://github.com/zss324/find-hidden-gem-employers 安装这个 Skill。
 ```
 
 安装后重启或刷新 Codex，使新 Skill 被重新发现。
